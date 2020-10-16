@@ -1,0 +1,10 @@
+C:\Users\bogda\Desktop\SSC\ssc_good_homework\ssc_good_homework\bin\Debug\ssc_good_homework.exe.config
+C:\Users\bogda\Desktop\SSC\ssc_good_homework\ssc_good_homework\bin\Debug\ssc_good_homework.exe
+C:\Users\bogda\Desktop\SSC\ssc_good_homework\ssc_good_homework\bin\Debug\ssc_good_homework.pdb
+C:\Users\bogda\Desktop\SSC\ssc_good_homework\ssc_good_homework\obj\Debug\ssc_good_homework.csprojAssemblyReference.cache
+C:\Users\bogda\Desktop\SSC\ssc_good_homework\ssc_good_homework\obj\Debug\ssc_good_homework.Form1.resources
+C:\Users\bogda\Desktop\SSC\ssc_good_homework\ssc_good_homework\obj\Debug\ssc_good_homework.Properties.Resources.resources
+C:\Users\bogda\Desktop\SSC\ssc_good_homework\ssc_good_homework\obj\Debug\ssc_good_homework.csproj.GenerateResource.cache
+C:\Users\bogda\Desktop\SSC\ssc_good_homework\ssc_good_homework\obj\Debug\ssc_good_homework.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Desktop\SSC\ssc_good_homework\ssc_good_homework\obj\Debug\ssc_good_homework.exe
+C:\Users\bogda\Desktop\SSC\ssc_good_homework\ssc_good_homework\obj\Debug\ssc_good_homework.pdb
